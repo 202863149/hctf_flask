@@ -3,7 +3,7 @@
 <div class="ui grid">
     <div class="four wide column"></div>
     <div class="eight wide column">
-        <!-- https://github.com/woadsl1234/hctf_flask/ -->
+        <!-- https://github.com/woadsl1234/python_docker -->
       <form class="ui form segment" method="post" enctype="multipart/form-data">
         <div class="field required">
           <label>NewPassword</label>
